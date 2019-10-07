@@ -1,4 +1,4 @@
-# GMRbasedGP
+# GMR-based Gaussian Process
 This folder contains the different toy examples presented in the paper "Learning from Demonstration with model-based Gaussian Processes" (N. Jaquier, D. Ginsbourger and S. Calinon), CoRL 2019.
 
 
